@@ -1,5 +1,8 @@
 second text0048
 
-changes from master branch
 
-new All
+changes from master branch/
+
+new All;
+new changes from second branch.
+>>>>>>> second
